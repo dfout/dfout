@@ -19,7 +19,7 @@ From stylized museum sites to robust and clean data-driven software, I am a flex
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfout&layout=compact)](https://github.com/dfout/github-readme-stats)
 
 Contact me to talk more: 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin/in/drew-fout/](https://www.linkedin.com/in/drew-fout/))
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/drew-fout/)
 &nbsp;
 
  
