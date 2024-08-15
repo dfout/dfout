@@ -12,7 +12,7 @@ Who does this software serve? What are their needs? How can we exceed their expe
 
 Those are the questions I ask myself in each project. 
 
-From museum sites to robust data-driven software, I am a flexible developer that will meet needs and contribute new ideas in any field.
+From museum sites to robust data-driven software, I am a flexible developer and life-long learner that strives to meet needs and is open to contribute new ideas in any field.
 
 Contact me to talk more: 
 
