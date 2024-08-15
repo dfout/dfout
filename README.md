@@ -12,8 +12,11 @@ Who does this software serve? What are their needs? How can we exceed their expe
 
 Those are the questions I ask myself in each project. 
 
-From museum sites to robust data-driven software, I am a flexible developer and life-long learner that strives to meet needs and is open to contribute new ideas in any field.
+From stylized museum sites to robust and clean data-driven software, I am a flexible developer and life-long learner that strives to meet needs and is open to contribute new ideas in any field.
+
+[![dfout's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfout)](https://github.com/dfout/github-readme-stats)
 
 Contact me to talk more: 
+
 
  
