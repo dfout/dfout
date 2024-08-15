@@ -6,7 +6,7 @@ I am a software engineer.
 
 I am passionate about quality design and development in a world of noise. 
 
-Great inventions are borne from the intersections of usefulness, efficiency, beauty, and sustainability. 
+Great inventions are borne from the intersections of usefulness, efficiency, beauty, and longevity. 
 
 Who does this software serve? What are they looking for? What are their needs? 
 
