@@ -16,7 +16,7 @@ From stylized museum sites to robust and clean data-driven software, I am a flex
 
 [![dfout's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfout)](https://github.com/dfout/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfout)](https://github.com/dfout/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfout&layout=compact)](https://github.com/dfout/github-readme-stats)
 
 Contact me to talk more: 
 
