@@ -22,6 +22,6 @@ Contact me to talk more:
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/drew-fout/)
 &nbsp;
 
-http://dmfout.co/
+Personal Site / Contact Form: http://dmfout.co/
 
  
